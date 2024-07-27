@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kitsu</string>
+
+    <string name="msg_no_network">Unable to connect\n Please check your internet connection and try again.</string>
+    <string name="msg_bad_request">Sorry, the request is wrong</string>
+    <string name="msg_unauthorized_user">The session ended; log in to take advantage of the services</string>
+    <string name="msg_can_not_get_data">An unexpected error occurred; try again later</string>
+    <string name="msg_forbidden_user">Make sure you’re permitted to call this service</string>
+    <string name="msg_no_data">Sorry, the requested data was not found</string>
+    <string name="msg_no_data_found">No Data Found</string>
+    <string name="msg_too_many_requests">Please wait and try again later</string>
+    <string name="msg_timeout">Sorry, no response from the system</string>
+    <string name="msg_conflict">Sorry, There is a conflict in the data</string>
+    <string name="msg_internal_service_error">Sorry, the service is not available at the moment. Please try again later</string>
+    <string name="data_saved_successfully">Data saved successfully</string>
+
+</resources>
